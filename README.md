@@ -1,4 +1,4 @@
-#[A. Агроном-любитель](https://github.com/HaCK3R322/ITMO_algroritms_and_data_structures/blob/main/A.cpp)
+# [A. Агроном-любитель](https://github.com/HaCK3R322/ITMO_algroritms_and_data_structures/blob/main/A.cpp)
 
 |УСЛОВИЕ|ЗНАЧЕНИЕ|
 |------------------------|--------------|
