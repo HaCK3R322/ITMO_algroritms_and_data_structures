@@ -1,5 +1,5 @@
 # Оглавление
-- [A. Агроном любитель](#А. Агроном-любитель)
+- [A. Агроном любитель](A. Агроном-любитель)
 
 # [A. Агроном-любитель](https://github.com/HaCK3R322/ITMO_algroritms_and_data_structures/blob/main/A.cpp)
 
